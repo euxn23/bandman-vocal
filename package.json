@@ -1,0 +1,22 @@
+{
+  "name": "@bandman/vocal",
+  "version": "0.0.1",
+  "description": "メンバー募集中、当方ボーカル",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euxn23/bandman-vocal.git"
+  },
+  "keywords": [
+    "bandman"
+  ],
+  "author": "euxn23",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/euxn23/bandman-vocal/issues"
+  },
+  "homepage": "https://github.com/euxn23/bandman-vocal#readme"
+}
